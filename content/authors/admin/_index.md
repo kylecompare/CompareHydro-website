@@ -15,7 +15,7 @@ role: PhD Student - Hydrogeology
 # Organizations/Affiliations
 organizations:
 - name: Florida State University - Dept. of Earth, Ocean & Atmospheric Science
-  url: "www.eoas.fsu.edu"
+  url: "https://www.eoas.fsu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests invloves the phhysical groundwater-surface water interactions
