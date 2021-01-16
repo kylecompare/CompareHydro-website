@@ -14,18 +14,18 @@ role: PhD Student - Hydrogeology
 
 # Organizations/Affiliations
 organizations:
-- name: Florida State University - Dept. of Earth, Ocean & Atmospheric Science
+- name: Florida State University
   url: "https://www.eoas.fsu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests invloves the phhysical groundwater-surface water interactions
+bio: Kyle's research interests invlove groundwater-surface water interactions
 
 interests:
 - Physical Hydrogeology
 - Critical Zone Science
 - Karst Hydrology
 - River Corridor Science
-
+- Surfae Water - Groundwater Interactions
 education:
   courses:
   - course: MSc in Geology
@@ -34,6 +34,7 @@ education:
   - course: BSc with Honors in Geology
     institution: Florida State University
     year: 2018
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
