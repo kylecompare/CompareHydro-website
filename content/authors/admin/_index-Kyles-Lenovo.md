@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctoral Student - Hydrogeology
+role: PhD Student - Hydrogeology
 
 # Organizations/Affiliations
 organizations:
@@ -29,12 +29,13 @@ interests:
 
 education:
   courses:
-  - course: MS in Geology
+  - course: MSc in Geology
     institution: Florida State University
     year: 2020
-  - course: BS in Geology
+  - course: BSc with Honors in Geology
     institution: Florida State University
     year: 2018
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
