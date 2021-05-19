@@ -18,15 +18,23 @@ organizations:
   url: "https://www.eoas.fsu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
+<<<<<<< HEAD
 bio: Kyle is a Geology Doctoral Student at the Department of Earth, Ocean & Atmospheric Science at Florida State University.  His research interests include groundwater-surface water interactions, chemical transport in the environment, and modeling hydro(geo)logical systems.
+=======
+bio: Kyle's research interests invlove groundwater-surface water interactions
+>>>>>>> a0fe483dfd23663de4d7d9600864ed57f9a303f3
 
 interests:
 - Physical Hydrogeology
 - Critical Zone Science
 - Karst Hydrology
 - River Corridor Science
+<<<<<<< HEAD
 - Groundwater-Surface Water Interactions
 
+=======
+- Surfae Water - Groundwater Interactions
+>>>>>>> a0fe483dfd23663de4d7d9600864ed57f9a303f3
 education:
   courses:
   - course: MS in Geology
@@ -35,6 +43,7 @@ education:
   - course: BS in Geology
     institution: Florida State University
     year: 2018
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
