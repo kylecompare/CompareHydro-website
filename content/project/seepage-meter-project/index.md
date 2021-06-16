@@ -39,6 +39,9 @@ M. Ye, D. Dominguez, S. Kish
 The goal of this project was to develop an automated device that can measure the exchange of groundwater and surface water in surficial bodies.  This is a continuation of the work by Pacheco-Castro (2017) and builds upon Solder (2016).  
 
 # Project Links
+FSU Masters-in-4 Competition Final Round:
+https://youtu.be/7caf3Lf1210
 
 
 # Acknowledgements
+I would like to acknowledge Daniel Dominguez for his invaluable help in building the physical seepage meter.  Without him, this project would not have been possible.

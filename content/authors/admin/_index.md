@@ -75,4 +75,4 @@ user_groups:
 
 Kyle Compare is an aspiring hydrogeologist, pursuing a PhD in Geology from Florida State University. His research interests include quantifying groundwater-surface water interactions through chemical proxy, physical measurement, and hydrologic modeling.  He hopes to expand his research goals to encompass chemical transport within the Critical Zone.
 
-Kyle's doctoral research involves quantifying the environmental flow within the Woodville Karst Plain (Florida) through the means of coupling surface water models with karst-groundwater models.
+Kyle's doctoral research involves quantifying the environmental flow within the Woodville Karst Plain (Florida). He hopes to learn of the complexity of karst environments to better understand how to approach other complex hydrogeologic environments in the future.
