@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctoral Student - Hydrogeology
+role: PhD Student - Hydrogeology
 
 # Organizations/Affiliations
 organizations:
@@ -29,10 +29,10 @@ interests:
 
 education:
   courses:
-  - course: MS in Geology
+  - course: MSc in Geology
     institution: Florida State University
     year: 2020
-  - course: BS in Geology
+  - course: BSc with Honors in Geology
     institution: Florida State University
     year: 2018
 
@@ -48,17 +48,17 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/kylecontrast
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=N2xt7v4AAAAJ&hl
+ # - icon: google-scholar
+  #icon_pack: ai
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/kylecomp
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/CV_2021.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -75,4 +75,4 @@ user_groups:
 
 Kyle Compare is an aspiring hydrogeologist, pursuing a PhD in Geology from Florida State University. His research interests include quantifying groundwater-surface water interactions through chemical proxy, physical measurement, and hydrologic modeling.  He hopes to expand his research goals to encompass chemical transport within the Critical Zone.
 
-Kyle's doctoral research involves quantifying the environmental flow within the Woodville Karst Plain (Florida). He hopes to learn of the complexity of karst environments to better understand how to approach other complex hydrogeologic environments in the future.
+Kyle's doctoral research involves quantifying the environmental flow within the Woodville Karst Plain (Florida) through the means of coupling surface water models with karst-groundwater models.
