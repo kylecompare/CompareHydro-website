@@ -6,11 +6,11 @@ title = "Automated, In-Situ Groundwater Seepage Meter "
 date = 2021-01-16T03:37:00Z
 
 # Project summary to display on homepage.
-summary = "Developed a device to automatically collect point measurements of groudnwater flux (seepage) into surface water bodies"
+summary = "Developed a device to automatically collect point measurements of groundwater flux (seepage) into surface water bodies"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["seepage", "surface water-groundwater interaction"]
+tags = ["seepage", "groundwater-surface water interaction"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "http://example.org"
