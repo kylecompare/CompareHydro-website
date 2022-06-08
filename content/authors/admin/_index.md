@@ -22,9 +22,9 @@ bio: Kyle is a Geology Doctoral Student at the Department of Earth, Ocean & Atmo
 
 interests:
 - Physical Hydrogeology
+-Data-Driven Hydrology
 - Critical Zone Science
 - Karst Hydrology
-- River Corridor Science
 - Groundwater-Surface Water Interactions
 
 education:

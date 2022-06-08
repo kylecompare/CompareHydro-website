@@ -10,7 +10,7 @@ summary = "Investigated time series of non-perennial rivers in Western Kansas an
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["surface water-groundwater interaction"]
+tags = ["groundwater-surface water interaction"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = ""
